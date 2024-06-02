@@ -1,1 +1,1 @@
-** Learning Postgres
+Learning Postgres
